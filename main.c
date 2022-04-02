@@ -9,5 +9,6 @@ int main(){
 	struct person Justin;
 	Justin.age = 34;
 	Justin.grade = 1.1;
+	printf("Hello World");
 	return 0;
 }
